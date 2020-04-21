@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/opencore
+opencore.so
+opencore.dylib
+opencore.dll
+opencore.a
+opencore.lib
+opencore-test-*
+libopencore.a
+*.exe
+*.o
+*.obj
+*.lst

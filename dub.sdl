@@ -1,0 +1,7 @@
+name "opencore"
+description "A library to interface with OpenCore's config.plist"
+authors "Harrison Ford"
+copyright "Copyright © 2020, Harrison Ford"
+targetType "library"
+license "proprietary"
+dependency "plist" version="~master"
