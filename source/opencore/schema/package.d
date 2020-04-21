@@ -17,5 +17,5 @@ struct OpenCoreConfig {
     @PlistKey("Misc") MiscConfig miscConfig;
     @PlistKey("NVRAM") NVRAMConfig nvramConfig;
     @PlistKey("PlatformInfo") PlatformConfig platformConfig;
-    @PlistKey("UEFI") UEFIConfig uefi;
+    @PlistKey("UEFI") UEFIConfig uefiConfig;
 }
